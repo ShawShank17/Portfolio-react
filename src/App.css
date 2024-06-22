@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topp{
+  max-height: 5vh;
+  max-width: 100%;
+  background-color: aqua;
+}
+
+.mainArea{
+  max-height: 95vh;
+  max-width: 100%;
+  background-color: #c61b1b;
+}
